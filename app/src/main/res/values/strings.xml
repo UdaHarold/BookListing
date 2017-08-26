@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookListing</string>
+
+    <string name="error_message">没有数据</string>
+</resources>
